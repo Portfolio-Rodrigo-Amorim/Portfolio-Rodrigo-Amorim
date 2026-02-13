@@ -1,0 +1,303 @@
+### INSTRUÇÕES:
+Altere os textos abaixo conforme desejar. Mantenha os marcadores (como --- ID: X ---, TITULO:, CLIENTE:, etc.) para que eu possa processar as mudanças automaticamente depois.
+Quando terminar, salve o arquivo e me avise!
+
+--- ID: 1 ---
+TITULO: Cazuza — Coca-Cola
+CLIENTE: COCA-COLA
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Desenvolvimento de um ambiente imersivo que captura a essência poética e urbana do cantor Cazuza para a Coca-Cola. O projeto envolveu a criação de uma cenografia rica em texturas retrô e iluminação neon dinâmica, com modelagem completa de mobiliário customizado e elementos decorativos. O resultado é um render fotorrealista que equilibra a identidade vibrante da marca com uma atmosfera nostálgica e tecnicamente complexa.
+
+--- ID: 2 ---
+TITULO: Show Bruno Mars — Coca-Cola
+CLIENTE: COCA-COLA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Visualização 3D de alta complexidade para uma ativação de grande porte voltada ao show do Bruno Mars. O desafio técnico consistiu na integração de estruturas cenográficas modulares com um projeto luminotécnico impactante, simulando fielmente a experiência de um festival. Cada material, do metal das estruturas aos acabamentos em acrílico, foi configurado para refletir com precisão a luz do palco, garantindo uma aprovação visual impecável.
+
+--- ID: 3 ---
+TITULO: Ativação Rio — Feira — O Boticário
+CLIENTE: O BOTICÁRIO
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Projeto detalhado para ativação de feira no Rio de Janeiro, focado na criação de um ecossistema promocional acolhedor. O trabalho incluiu a modelagem de barracas, carrinhos e diversos elementos promocionais com foco em texturas de madeira e acabamentos naturais. A visualização foca no realismo dos props e na disposição estratégica das peças para otimizar o fluxo de público, mantendo a sofisticação da marca O Boticário.
+
+--- ID: 4 ---
+TITULO: Ativação Rio — Corrida — O Boticário
+CLIENTE: O BOTICÁRIO
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Concepção de espaços modulares utilizando containers para uma corrida patrocinada pelo Boticário no Rio de Janeiro. O projeto destaca-se pela aplicação inteligente do branding em grandes superfícies e pela modelagem de áreas externas funcionais. A renderização prioriza a luz natural para validar como os materiais e as cores da marca se comportariam sob a luz do sol, garantindo fidelidade visual para a execução física.
+
+--- ID: 5 ---
+TITULO: Eudora Beauty Station
+CLIENTE: O BOTICÁRIO / EUDORA
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Projeto de arquitetura comercial focado na experiência premium da consumidora Eudora. A modelagem 3D abrange todo o layout da Beauty Station, com foco meticuloso em materiais nobres como veludo, metais dourados e iluminação difusa de camarim. A visualização permite uma compreensão clara da jornada do cliente dentro do espaço, unindo funcionalidade de varejo com um design de interiores sofisticado.
+
+--- ID: 6 ---
+TITULO: Eudora Festa 10 Anos
+CLIENTE: O BOTICÁRIO / EUDORA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia monumental para a celebração de uma década da marca Eudora. O projeto envolveu a criação de múltiplos ambientes, incluindo uma fachada imponente, corredores sensoriais, palco principal e espaços temáticos integrados. A complexidade técnica da cena exigiu um controle rigoroso de iluminação global e texturização high-poly para garantir que cada detalhe da festa fosse visualizado com máxima qualidade fotorrealista.
+
+--- ID: 7 ---
+TITULO: Eudora — Lançamento Camila Queiroz
+CLIENTE: O BOTICÁRIO / EUDORA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Visualização 3D estratégica para o lançamento de produtos em colaboração com Camila Queiroz. O projeto contemplou a criação de ambientes distintos como bazar, estúdio fotográfico e o design de press kits exclusivos. O foco principal foi a reprodução fiel das embalagens e a criação de uma atmosfera de estúdio profissional, utilizando técnicas avançadas de renderização para destacar o brilho e a qualidade dos cosméticos.
+
+--- ID: 8 ---
+TITULO: Eudora Natal 2024
+CLIENTE: O BOTICÁRIO / EUDORA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Desenvolvimento cenográfico para a campanha de Natal 2024 da Eudora, focada em uma estética luxuosa e festiva. O projeto exigiu a modelagem de elementos decorativos complexos e uma configuração de luz que remetesse ao brilho das festas de fim de ano. A visualização 3D foca na harmonia entre a identidade visual da marca e os símbolos natalinos, criando uma cena imersiva e visualmente rica.
+
+--- ID: 9 ---
+TITULO: Eudora — Nosso Camarote 2025
+CLIENTE: O BOTICÁRIO / EUDORA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Projeto de design de experiência para o Camarote Eudora e Beleza na Web no carnaval 2025. A visualização engloba áreas complexas como o backstage, meeting point e o salão principal, integrando tecnologia de LED e cenografia vibrante. O trabalho técnico garantiu a correta visualização da circulação de pessoas e do impacto das luzes cênicas sobre os materiais reflexivos típicos da estética carnavalesca.
+
+--- ID: 10 ---
+TITULO: Eudora — Vogue Lideranças Inovadoras
+CLIENTE: O BOTICÁRIO / EUDORA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia desenvolvida para o prestigiado evento Vogue Lideranças Inovadoras em parceria com a Eudora. O projeto exigiu uma abordagem minimalista e elegante, condizente com o público de liderança. A modelagem focou em linhas limpas, mobiliário de design assinado e uma iluminação sóbria que valoriza os painéis informativos e a identidade visual das marcas envolvidas.
+
+--- ID: 11 ---
+TITULO: Eudora — Woman on Top 2024
+CLIENTE: O BOTICÁRIO / EUDORA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Concepção visual para o evento Woman on Top 2024 da Eudora, focado no empoderamento feminino. A visualização 3D apresenta uma cenografia moderna, com uso de formas geométricas e cores vibrantes que conversam com a temática do evento. Cada elemento do palco e das áreas comuns foi modelado para oferecer um fundo visualmente impactante para transmissões e fotos.
+
+--- ID: 12 ---
+TITULO: Make B — Woman on Top 2023
+CLIENTE: O BOTICÁRIO / MAKE B
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Visualização fotorrealista para o evento da linha Make B no Woman on Top 2023. O projeto foca no detalhamento técnico de balcões de experimentação e displays de produtos, utilizando materiais com alta reflexividade e transparência para simular a sofisticação da linha de maquiagem. A iluminação foi desenhada para destacar os pontos focais do palco e a clareza do branding.
+
+--- ID: 13 ---
+TITULO: Boticário Natal 2024
+CLIENTE: O BOTICÁRIO
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Visualização completa da campanha natalina do Boticário para o ano de 2024. O projeto traz uma abordagem acolhedora e mágica, com modelagem detalhada de props decorativos e texturização de alta fidelidade para as embalagens de presente. O render final captura o equilíbrio entre a tradição do Natal e a modernidade da marca, servindo como guia essencial para a implementação física.
+
+--- ID: 14 ---
+TITULO: Nina Secrets 30 Anos
+CLIENTE: O BOTICÁRIO / NINA SECRETS
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Criação cenográfica para a celebração dos 30 anos da influenciadora Nina Secrets em parceria com O Boticário. O projeto envolveu a modelagem de corredores interativos, bandejas de produtos personalizadas e espaços para fotos com estética "instagramável". A visualização 3D foca na diversão e na cor, utilizando texturas suaves e iluminação vibrante que reflete a identidade da linha.
+
+--- ID: 15 ---
+TITULO: Nina Secrets — PK Meninas Malvadas
+CLIENTE: O BOTICÁRIO / NINA SECRETS
+CATEGORIA: PRESS KITS E PRODUTOS
+DESCRICAO: Design e visualização 3D do press kit temático inspirado no filme Meninas Malvadas para a linha Nina Secrets. O desafio técnico foi modelar a embalagem e os produtos com precisão milimétrica, garantindo que o fechamento e os materiais fossem visualmente fidedignos ao produto real. A renderização destaca os acabamentos gráficos e as cores icônicas da colaboração.
+
+--- ID: 16 ---
+TITULO: QDB — Camarote Lady Gaga RJ
+CLIENTE: O BOTICÁRIO / QDB
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia audaciosa para o camarote da Quem Disse, Berenice? no show da Lady Gaga no Rio de Janeiro. O projeto traduz a estética pop e disruptiva da artista em um espaço físico, com uso intensivo de LEDs, superfícies espelhadas e mobiliário contemporâneo. A modelagem 3D permitiu antecipar o impacto visual da marca dentro de um ambiente escuro de festival.
+
+--- ID: 17 ---
+TITULO: QDB & Faber Castel — Press Kit
+CLIENTE: O BOTICÁRIO / QDB
+CATEGORIA: PRESS KITS E PRODUTOS
+DESCRICAO: Visualização técnica de produto para o press kit colaborativo entre Quem Disse, Berenice? e Faber-Castell. O foco do projeto foi a reprodução exata das texturas de madeira e grafite em conjunto com as fórmulas de maquiagem, criando um visual tátil e nostálgico. A renderização macro permite apreciar cada detalhe da embalagem e da ergonomia dos produtos.
+
+--- ID: 18 ---
+TITULO: Camarote Vivo Rio — Heineken
+CLIENTE: HEINEKEN
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Design de interiores e cenografia para o camarote da Heineken no Vivo Rio. O projeto utiliza a linguagem industrial e tecnológica da marca, com modelagem de balcões retroiluminados e estruturas metálicas. A visualização 3D prioriza a cor verde característica e a iluminação pontual, criando um ambiente premium e imersivo para os convidados.
+
+--- ID: 19 ---
+TITULO: Noite nos Museus
+CLIENTE: CULTURAL
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Ambientação artística e cenográfica para o evento cultural noturno "Noite nos Museus". O trabalho consistiu na visualização de intervenções leves em espaços históricos, utilizando iluminação cênica para valorizar a arquitetura existente e as obras de arte. O projeto 3D foi fundamental para planejar o impacto das sombras e a atmosfera onírica do evento.
+
+--- ID: 20 ---
+TITULO: Casa Summer Hunter — Olimpikus
+CLIENTE: OLIMPIKUS
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Projeto de espaço imersivo para a ativação Casa Summer Hunter da Olimpikus. A cenografia foca na identidade esportiva e dinâmica, com modelagem de estruturas leves, áreas de exposição de calçados e espaços de convivência ao ar livre. O render captura a vibração do verão e a modernidade dos materiais tecnológicos utilizados pela marca.
+
+--- ID: 21 ---
+TITULO: Paradoxe — Prada
+CLIENTE: PRADA
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Ativação de luxo desenvolvida para o lançamento do perfume Paradoxe da Prada. O projeto 3D cria um espaço sensorial premium, onde a geometria do frasco inspira a arquitetura do ambiente. A modelagem foca no fotorrealismo de superfícies de vidro, reflexos complexos e acabamentos de alto padrão, transmitindo a exclusividade e a sofisticação da casa de moda italiana.
+
+--- ID: 22 ---
+TITULO: Estande Premmia — Vibra
+CLIENTE: VIBRA
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Design de estande para a rede Premmia (Vibra Energia), focado em fidelidade corporativa e visibilidade. O projeto inclui a modelagem de totens de atendimento, áreas de premiação e sinalização aérea de grande formato. A visualização 3D garante que o branding seja aplicado de forma consistente e que a iluminação geral destaque os pontos de interação com o cliente.
+
+--- ID: 23 ---
+TITULO: Investor Day — Vibra
+CLIENTE: VIBRA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia corporativa de alto nível para o evento Investor Day da Vibra Energia. O projeto foca na clareza e no profissionalismo, com um palco limpo, telas de LED integradas e mobiliário sóbrio. A modelagem técnica assegura que todos os ângulos de visão da plateia sejam atendidos, proporcionando uma experiência visual coesa para os investidores.
+
+--- ID: 24 ---
+TITULO: Reunião Museu do Amanhã — Vibra
+CLIENTE: VIBRA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Visualização cenográfica para reunião executiva realizada no Museu do Amanhã, no Rio de Janeiro. O desafio foi criar uma estrutura que respeitasse a arquitetura futurista e orgânica do museu, utilizando materiais transparentes e linhas leves. O projeto 3D permitiu planejar a integração harmônica entre o mobiliário corporativo e o entorno monumental.
+
+--- ID: 25 ---
+TITULO: Show Premmia — Vibra
+CLIENTE: VIBRA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia completa para o evento musical Show Premmia. O projeto envolve o design de um palco dinâmico com elementos modulares iluminados e áreas vip integradas. A visualização técnica explora o comportamento dos materiais sob diferentes cores de iluminação de palco, garantindo um resultado vibrante e tecnicamente executável.
+
+--- ID: 26 ---
+TITULO: Websummit 2025 — Vibra
+CLIENTE: VIBRA
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Estande inovador desenvolvido para a participação da Vibra no Websummit 2025. O projeto traz uma linguagem futurista e tecnológica, com uso de telas interativas, iluminação linear de LED e espaços de networking integrados. A modelagem 3D foi essencial para validar o fluxo de visitantes e o impacto da marca em um evento global de tecnologia.
+
+--- ID: 27 ---
+TITULO: Taste SP — Águas Prata
+CLIENTE: ÁGUAS PRATA
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Projeto de estande para a Águas Prata no festival gastronômico Taste SP. A visualização foca no frescor e na leveza, utilizando materiais naturais, transparências e vegetação integrada. A modelagem dos balcões e do display de produtos foi feita para destacar a pureza da água e a tradição da marca em um ambiente de alta gastronomia.
+
+--- ID: 28 ---
+TITULO: Natal 2024 — OUI
+CLIENTE: OUI
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia elegante e festiva para a campanha de Natal 2024 da marca de perfumaria O.U.i.. O projeto traz um ar de celebração francesa, com foco em texturas de tecidos luxuosos, iluminação quente e modelagem detalhada de caixas de presente personalizadas. O render fotorrealista transmite a sofisticação e o charme característicos da marca.
+
+--- ID: 29 ---
+TITULO: Convenção Unimed 2025 — MC Saúde
+CLIENTE: MC SAÚDE / UNIMED
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia de grande escala para a Convenção Nacional da Unimed 2025. O projeto envolve a criação de plenárias, salas de reunião e áreas de convivência com uma linguagem visual unificada. A modelagem 3D permite visualizar a grandiosidade do evento e a correta aplicação do branding em todas as superfícies, garantindo uma experiência profissional e acolhedora.
+
+--- ID: 30 ---
+TITULO: Fisweek — MC Saúde
+CLIENTE: MC SAÚDE
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Design de estande tecnológico para o evento de saúde Fisweek. O foco do projeto foi criar um ambiente clínico porém moderno, com uso de superfícies brancas, luzes frias e displays digitais. A visualização técnica garante que o espaço de demonstração de equipamentos seja funcional e visualmente limpo, transmitindo confiança e inovação.
+
+--- ID: 31 ---
+TITULO: Jovem Frankenstein — Aventura
+CLIENTE: AVENTURA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia 3D detalhada para a grande produção teatral do musical "Jovem Frankenstein". O trabalho envolveu a modelagem de cenários complexos que remetem a laboratórios góticos e vilas europeias, com foco em texturas de pedra, madeira envelhecida e mecanismos cênicos. A visualização permitiu ao diretor e aos cenógrafos planejar as trocas de cenário e a iluminação dramática.
+
+--- ID: 32 ---
+TITULO: Noviça Rebelde — Aventura
+CLIENTE: AVENTURA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Projeto cenográfico para o clássico musical "A Noviça Rebelde". A visualização 3D contempla os icônicos cenários das montanhas austríacas e o interior da abadia, com foco na escala e na profundidade do palco. A modelagem priorizou a delicadeza dos detalhes arquitetônicos e a harmonia das cores, garantindo uma representação fiel da atmosfera lúdica da peça.
+
+--- ID: 33 ---
+TITULO: Community Creators Academy — iFood
+CLIENTE: IFOOD
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Ambiente criativo e modular desenvolvido para os criadores de conteúdo do iFood. O projeto foca na versatilidade, com micro-cenários modelados para diferentes tipos de gravações e transmissões ao vivo. A iluminação foi pensada para ser funcional para câmeras, enquanto o design de interiores utiliza as cores vibrantes da marca para gerar reconhecimento imediato.
+
+--- ID: 34 ---
+TITULO: PK Influenciadores — iFood
+CLIENTE: IFOOD
+CATEGORIA: PRESS KITS E PRODUTOS
+DESCRICAO: Visualização de produto para press kits exclusivos destinados a influenciadores do iFood. O projeto envolve a modelagem detalhada das caixas, dos itens internos e da disposição gráfica dos elementos. A renderização foca na materialidade das embalagens, garantindo que o unboxing virtual seja tão impactante quanto a experiência física.
+
+--- ID: 35 ---
+TITULO: Saúde na Estrada — Ipiranga
+CLIENTE: IPIRANGA
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Projeto de arquitetura itinerante para a iniciativa "Saúde na Estrada" da Ipiranga. A visualização 3D foca na funcionalidade de unidades móveis de atendimento, com modelagem de balcões de recepção e áreas de triagem. O design mantém a identidade visual robusta da marca, utilizando materiais resistentes e de fácil manutenção visualizados sob luz externa realista.
+
+--- ID: 36 ---
+TITULO: Festa 50 Anos — Ponte Rio-Niterói
+CLIENTE: PONTE RIO-NITERÓI
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia comemorativa para a celebração dos 50 anos da Ponte Rio-Niterói. O projeto utiliza elementos gráficos que remetem à história da engenharia brasileira, integrados a um espaço de eventos elegante. A modelagem 3D destaca painéis cronológicos e uma iluminação que valoriza as conquistas da empresa ao longo das décadas.
+
+--- ID: 37 ---
+TITULO: Bienal da Arquitetura 2025 — Prefeitura RJ
+CLIENTE: PREFEITURA RJ
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Espaços expositivos modulares projetados para a Bienal da Arquitetura 2025 no Rio de Janeiro. O projeto 3D explora a flexibilidade das estruturas de exibição, permitindo diferentes configurações de painéis e maquetes. A visualização prioriza a circulação fluida e a iluminação natural, criando um ambiente propício para a contemplação das obras arquitetônicas.
+
+--- ID: 38 ---
+TITULO: Prêmio Sim à Igualdade Racial — Foyer
+CLIENTE: IGUALDADE RACIAL
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Design do foyer de entrada para o Prêmio Sim à Igualdade Racial. O projeto foca em uma recepção calorosa e imersiva, com o uso de texturas orgânicas, padrões culturais e uma iluminação acolhedora. A modelagem 3D garante que o branding do prêmio seja o protagonista, criando um ambiente de celebração e respeito.
+
+--- ID: 39 ---
+TITULO: Prêmio Sim à Igualdade Racial — Palco
+CLIENTE: IGUALDADE RACIAL
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia de palco monumental para a cerimônia do Prêmio Sim à Igualdade Racial. O projeto integra tecnologia de telas de LED com elementos físicos simbólicos, criando uma composição dinâmica para transmissões televisivas. A modelagem técnica assegura a visibilidade de todos os elementos cenográficos sob as complexas luzes de um evento de premiação.
+
+--- ID: 40 ---
+TITULO: Estande Itinerante — Sallve
+CLIENTE: SALLVE
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Desenvolvimento de duas opções de design para o estande itinerante da Sallve. A visualização 3D foca no minimalismo e na paleta de cores pastel da marca, com modelagem de mobiliário leve e displays de produtos de fácil acesso. O projeto prioriza o fotorrealismo dos materiais plásticos e acabamentos foscos característicos do branding da empresa.
+
+--- ID: 41 ---
+TITULO: Conferência — Tim
+CLIENTE: TIM
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia tecnológica para conferência corporativa da Tim. O projeto visual apresenta um palco com linhas futuristas, grandes telas de projeção e iluminação em azul vibrante. A modelagem 3D permitiu antecipar o impacto visual da marca no ambiente e a integração perfeita de elementos gráficos digitais com a estrutura física.
+
+--- ID: 42 ---
+TITULO: 60 Anos Fábrica Cubatão — Unipar
+CLIENTE: UNIPAR
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Projeto cenográfico para a celebração dos 60 anos da unidade industrial da Unipar em Cubatão. O desafio foi transformar um ambiente industrial em um espaço festivo e seguro, utilizando estruturas modulares e iluminação cênica. A visualização 3D destaca a história da fábrica através de painéis decorativos e áreas de convivência integradas ao pátio.
+
+--- ID: 43 ---
+TITULO: Dia da Família — Unipar
+CLIENTE: UNIPAR
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Planejamento espacial e visualização para o evento "Dia da Família" da Unipar. O projeto 3D engloba áreas recreativas, tendas de alimentação e espaços de lazer ao ar livre. A modelagem focou na organização do fluxo e na criação de um ambiente seguro e colorido, garantindo que a escala do evento fosse compreendida para a logística de montagem.
+
+--- ID: 44 ---
+TITULO: Blockchain Rio 2025 — Azify
+CLIENTE: AZIFY
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Estande futurista projetado para a Azify no evento Blockchain Rio 2025. O design foca na tecnologia financeira digital, com modelagem de balcões com iluminação embutida, telas de dados e um layout aberto para networking. A renderização prioriza materiais metálicos e reflexivos, reforçando a imagem de inovação e segurança da empresa.
+
+--- ID: 45 ---
+TITULO: MITA 2023 — Deezer
+CLIENTE: DEEZER
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia vibrante desenvolvida para a ativação da Deezer no festival MITA 2023. O projeto foca no engajamento do público, com espaços instagramáveis, iluminação de neon e modelagem de áreas de descanso e audição. A visualização 3D captura a energia do festival e a forte presença da marca no ambiente musical.
+
+--- ID: 46 ---
+TITULO: RH Rio 2025 — Firjan
+CLIENTE: FIRJAN
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Projeto cenográfico para o congresso RH Rio 2025, organizado pela Firjan. A visualização contempla o design de auditórios e áreas de exposição com foco no conforto e na troca de informações. A modelagem 3D assegura que a identidade corporativa da Firjan seja aplicada de forma elegante em um ambiente de alto nível profissional.
+
+--- ID: 47 ---
+TITULO: SESI FSWK 2024 — Firjan
+CLIENTE: FIRJAN
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Estande educacional do SESI para o evento FSWK 2024. O projeto traz uma abordagem lúdica e tecnológica, com modelagem de estações de aprendizagem interativas e áreas de demonstração de robótica. A visualização foca na clareza das informações e no design ergonômico para o público jovem.
+
+--- ID: 48 ---
+TITULO: Ative Seu Modo Verão — Glade
+CLIENTE: GLADE
+CATEGORIA: STANDS E ATIVAÇÕES
+DESCRICAO: Ativação sensorial "Ative Seu Modo Verão" desenvolvida para a Glade. O projeto 3D cria um ambiente refrescante e ensolarado, com modelagem de flores, elementos de praia e displays de produtos que enfatizam o frescor das fragrâncias. A renderização prioriza a luz solar difusa para transmitir uma sensação de leveza e bem-estar.
+
+--- ID: 49 ---
+TITULO: Saraus 2025 — Grupo Eureka
+CLIENTE: GRUPO EUREKA
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Cenografia artística para a série de Saraus 2025 do Grupo Eureka. O projeto foca na intimidade e na criatividade, com a modelagem de palcos baixos, iluminação de filamento e mobiliário vintage. A visualização 3D permite planejar uma atmosfera acolhedora que favoreça a expressão artística e o convívio social.
+
+--- ID: 50 ---
+TITULO: Hotmart Stars — Light Show
+CLIENTE: HOTMART
+CATEGORIA: EVENTOS E CENOGRAFIA
+DESCRICAO: Projeto cenográfico de alta complexidade para o evento Hotmart Stars, integrando um show de luzes sincronizado. O trabalho envolveu a modelagem de um palco central dinâmico, elementos suspensos e o design de press kits de luxo. A visualização 3D foi crucial para simular o comportamento das luzes volumétricas e o impacto visual da cenografia durante o espetáculo.

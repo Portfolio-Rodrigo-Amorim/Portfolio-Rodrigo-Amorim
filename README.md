@@ -22,7 +22,7 @@ My portfolio features work for major clients including:
 - **Cultural**: Prefeitura do Rio de Janeiro, Museu do Amanhã, Aventura (Theatrical Productions).
 
 ### 🌐 Live Portfolio
-Check out the live version here: [https://portfolio-rodrigo-amorim.github.io/](https://portfolio-rodrigo-amorim.github.io/)
+Check out the live version here: https://portfolio-rodrigo-amorim.github.io/Portfolio/
 
 ---
 *Developed for the Digital Frontier.*

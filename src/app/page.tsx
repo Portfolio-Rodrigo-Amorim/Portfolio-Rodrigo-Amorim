@@ -125,6 +125,19 @@ function HeroSection() {
   const [nextImage, setNextImage] = useState(1)
   const [isTransitioning, setIsTransitioning] = useState(false)
 
+  const handlePaginationClick = (index: number) => {
+    if (index === currentImage || isTransitioning) return
+
+    setIsTransitioning(true)
+    setNextImage(index)
+
+    setTimeout(() => {
+      setCurrentImage(index)
+      setNextImage((index + 1) % heroImages.length)
+      setIsTransitioning(false)
+    }, 1000)
+  }
+
   useEffect(() => {
     const interval = setInterval(() => {
       setIsTransitioning(true)
@@ -133,7 +146,7 @@ function HeroSection() {
         setNextImage((nextImage + 1) % heroImages.length)
         setIsTransitioning(false)
       }, 1000)
-    }, 3000)
+    }, 4000)
     return () => clearInterval(interval)
   }, [nextImage])
 
@@ -149,12 +162,17 @@ function HeroSection() {
         <h1 className="text-white text-5xl md:text-7xl lg:text-8xl font-bold tracking-wider mb-10">RODRIGO AMORIM</h1>
         <a href="#work" className="inline-block bg-white text-black px-10 py-4 text-sm font-semibold tracking-widest hover:bg-gray-200 transition-all duration-300 hover:scale-105 hover:shadow-xl">VIEW PROJECTS</a>
       </div>
-      <div className="absolute bottom-20 left-1/2 -translate-x-1/2 z-10 flex gap-2">
+      <div className="absolute bottom-32 left-1/2 -translate-x-1/2 z-10 flex gap-3">
         {heroImages.map((_, index) => (
-          <div key={index} className={`h-0.5 transition-all duration-500 ${index === currentImage ? 'bg-white w-8' : 'bg-white/20 w-4'}`} />
+          <button
+            key={index}
+            onClick={() => handlePaginationClick(index)}
+            className={`h-1 transition-all duration-500 hover:bg-white/60 ${index === currentImage ? 'bg-white w-12' : 'bg-white/20 w-6'}`}
+            aria-label={`Go to slide ${index + 1}`}
+          />
         ))}
       </div>
-      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 z-10">
+      <div className="absolute bottom-12 left-1/2 -translate-x-1/2 z-10">
         <div className="w-6 h-10 border-2 border-gray-500 rounded-full flex justify-center">
           <div className="w-1 h-3 bg-gray-500 rounded-full mt-2 animate-bounce" />
         </div>
@@ -166,17 +184,71 @@ function HeroSection() {
 // ==========================================
 // FEATURED WORKS
 // ==========================================
+// ==========================================
+// FEATURED WORKS
+// ==========================================
+
+const categoryMap: Record<string, string> = {
+  'BRAND ACTIVATION': 'STANDS & ACTIVATIONS',
+  'EVENT DESIGN': 'EVENTS & SCENOGRAPHY',
+  'RETAIL DESIGN': 'STANDS & ACTIVATIONS',
+  'PRODUCT LAUNCH': 'PRESS KITS & PRODUCTS',
+  'SEASONAL CAMPAIGN': 'EVENTS & SCENOGRAPHY',
+  'PRESS KIT': 'PRESS KITS & PRODUCTS',
+  'CULTURAL EVENT': 'EVENTS & SCENOGRAPHY',
+  'LUXURY BRAND': 'STANDS & ACTIVATIONS',
+  'EXHIBITION DESIGN': 'STANDS & ACTIVATIONS',
+  'THEATRICAL PRODUCTION': 'EVENTS & SCENOGRAPHY',
+  'CORPORATE EVENT': 'EVENTS & SCENOGRAPHY',
+}
+
+const filters = ['ALL', 'EVENTS & SCENOGRAPHY', 'STANDS & ACTIVATIONS', 'PRESS KITS & PRODUCTS']
+
 function FeaturedWorks({ onProjectClick }: { onProjectClick: (project: Project) => void }) {
+  const [activeFilter, setActiveFilter] = useState('ALL')
+
+  const filteredProjects = projects.filter((project) => {
+    if (activeFilter === 'ALL') return true
+    return categoryMap[project.category] === activeFilter
+  })
+
   return (
     <section id="work" className="py-24 bg-[#0a0a0a]">
       <div className="max-w-7xl mx-auto px-6">
-        <div className="text-center mb-16">
-          <h2 className="text-white text-3xl md:text-4xl font-bold tracking-widest mb-4">FEATURED WORKS</h2>
-          <div className="w-24 h-0.5 bg-white mx-auto opacity-50" />
+
+        {/* Header with Title and Filter */}
+        <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
+          <div className="text-left">
+            <h2 className="text-white text-3xl md:text-4xl font-bold tracking-widest mb-4">FEATURED WORKS</h2>
+            <div className="w-24 h-0.5 bg-white opacity-50" />
+          </div>
+
+          <div className="flex flex-wrap justify-end gap-x-8 gap-y-4">
+            {filters.map((filter) => (
+              <button
+                key={filter}
+                onClick={() => setActiveFilter(filter)}
+                className={`text-sm tracking-widest uppercase pb-2 transition-all duration-300 font-semibold
+                  ${activeFilter === filter
+                    ? 'text-white border-b-2 border-[#00E0A0]'
+                    : 'text-gray-500 hover:text-white border-b-2 border-transparent'
+                  }`}
+              >
+                {filter}
+              </button>
+            ))}
+          </div>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {projects.map((project, index) => (
-            <div key={project.id} className="group relative aspect-square overflow-hidden cursor-pointer" style={{ animationDelay: `${index * 100}ms` }} onClick={() => onProjectClick(project)}>
+
+        {/* Projects Grid */}
+        <div key={activeFilter} className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 animate-fade-in-up">
+          {filteredProjects.map((project, index) => (
+            <div
+              key={project.id}
+              className="group relative aspect-square overflow-hidden cursor-pointer"
+              style={{ animationDelay: `${index * 50}ms` }}
+              onClick={() => onProjectClick(project)}
+            >
               <img src={project.images[0]} alt={project.title} className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy" />
               <div className="absolute inset-0 bg-black/0 group-hover:bg-black/60 transition-all duration-300 flex items-end">
                 <div className="w-full p-4 bg-gradient-to-t from-black/80 to-transparent">
@@ -194,6 +266,13 @@ function FeaturedWorks({ onProjectClick }: { onProjectClick: (project: Project) 
             </div>
           ))}
         </div>
+
+        {filteredProjects.length === 0 && (
+          <div className="text-center text-gray-500 py-12">
+            No projects found in this category.
+          </div>
+        )}
+
       </div>
     </section>
   )
