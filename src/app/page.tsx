@@ -241,12 +241,9 @@ function CallToAction() {
     <section id="contact" className="py-24 bg-[#0a0a0a] border-t border-gray-800">
       <div className="max-w-4xl mx-auto px-6 text-center">
         <h2 className="text-white text-3xl md:text-4xl font-bold tracking-wider mb-12">LET&apos;S BUILD SOMETHING EXTRAORDINARY.</h2>
-        <div className="flex items-center justify-center gap-8 mb-10">
-          <a href="https://www.artstation.com/rodrigos" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300" aria-label="Artstation">
-            <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M0 17.723l2.027 3.505h.001a2.424 2.424 0 0 0 2.164 1.333h13.457l-2.792-4.838H0zm24-2.027a2.42 2.42 0 0 0-.462-1.428l-7.692-13.288a2.418 2.418 0 0 0-2.108-1.224h-4.053l11.062 19.187L24 15.696zm-14.656-5.689l5.303 9.197H4.34l5.004-9.197z" /></svg>
-          </a>
+        <div className="flex items-center justify-center mb-10">
           <a href="https://www.linkedin.com/in/rodrigoamorim91/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300" aria-label="LinkedIn">
-            <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" /></svg>
+            <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" /></svg>
           </a>
         </div>
         <a href="mailto:gomessa.rodrigo@gmail.com" className="text-white text-lg md:text-xl hover:text-gray-300 transition-colors duration-300 underline underline-offset-4 decoration-gray-500">gomessa.rodrigo@gmail.com</a>
